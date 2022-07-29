@@ -47,5 +47,5 @@ These wonderful people made this project possible. Thank you
 
 [Alexander D.](http://www.anarchyishyperbole.com/p/significant-digits.html) - Author of the Significant Digits\
 [George Steel](https://github.com/george-steel/sigdigs-ebook) - Scripts for generating pdf files\
-[Ian Storm Taylor](https://github.com/ianstormtaylor/hpmor) - Original cover art for Harry Potter and the Methods of Rationality\
+[Ian Storm Taylor](https://github.com/ianstormtaylor/hpmor) - Original cover art for Harry Potter and the Methods of Rationality
 
