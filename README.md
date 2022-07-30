@@ -11,6 +11,8 @@ The books were not yet printed and proof read. There may be formatting mistakes.
 # Contributing
 If you find any formatting mistake, please contact me on [Reddit](https://www.reddit.com/user/KlazikCZ) or open an Issue. I will try to fix the mistake as soon as possible. 
 
+Any photos of the finished books are most welcome.
+
 # Printing
 The files supplied are ready-to-print using [Lulu.com](https://www.lulu.com/). After I receive my copies, I will add photos of the finished product here.
 
