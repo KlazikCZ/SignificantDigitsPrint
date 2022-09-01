@@ -15,9 +15,9 @@ Any photos of the finished books are most welcome.
 
 # Printing
 The files supplied are ready-to-print using [Lulu.com](https://www.lulu.com/).
-![Img1](/photos/img1.jpg)
-![Img2](/photos/img2.jpg)
-![Img3](/photos/img3.jpg)
+![Img1](/photos/img1.jpg | width=200 | height=150)
+![Img2](/photos/img2.jpg | width=200 | height=150)
+![Img3](/photos/img3.jpg | width=200 | height=150)
 
 # Files
 ## Arc 1
