@@ -14,7 +14,10 @@ If you find any formatting mistake, please contact me on [Reddit](https://www.re
 Any photos of the finished books are most welcome.
 
 # Printing
-The files supplied are ready-to-print using [Lulu.com](https://www.lulu.com/). After I receive my copies, I will add photos of the finished product here.
+The files supplied are ready-to-print using [Lulu.com](https://www.lulu.com/).
+![Img1](/photos/img1.jpg)
+![Img2](/photos/img2.jpg)
+![Img3](/photos/img3.jpg)
 
 # Files
 ## Arc 1
